@@ -1,8 +1,8 @@
 FROM java:8
 
-MAINTAINER Sjoerd Mulder <sjoerd@crobox.com>
+MAINTAINER Manimaran Selvan <mselvan@marketinline.com>
 
-ENV TEAMCITY_VERSION 10.0
+ENV TEAMCITY_VERSION 9.1.6
 ENV TEAMCITY_DATA_PATH /var/lib/teamcity
 
 # Get and install teamcity
